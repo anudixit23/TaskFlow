@@ -1,0 +1,20 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "a project mamangement application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "API",
+    "creation",
+    "backend"
+  ],
+  "author": "Anushka Dixit",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
